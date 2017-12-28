@@ -9,6 +9,8 @@
 3. 按照[指引][3]安装Windows Subsystem for Linux。
 4. 根据[Jekyll的指引][4]的 **Installation via Bash on Windows 10** 方法安装Jekyll。
 5. 把生成后的位于 `C:\Users\你的名字\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_后缀会不一样\LocalState\rootfs\home\你的Linux用户名\你的Jekyll博客名字` 的内容复制出来，放到你的GitHub的repository的文件夹。然后Commit并Publish.
+
+
 **打完收工**
 
 
